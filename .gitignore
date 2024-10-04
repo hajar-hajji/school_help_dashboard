@@ -1,0 +1,5 @@
+myvenv/
+models/
+src/__pycache__/
+src/.ipynb_checkpoints/
+desktop.ini
